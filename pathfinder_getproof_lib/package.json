@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "ethers": "^5.0.25",
-    "starknet": "^4.17.1",
+    "starknet": "^4.22.0",
     "tsdx": "^0.14.1"
   }
 }
