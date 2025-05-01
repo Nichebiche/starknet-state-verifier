@@ -6336,10 +6336,10 @@ path-type@^4.0.0:
   resolved "https://registry.npmjs.org/path-type/-/path-type-4.0.0.tgz"
   integrity sha512-gDKb8aZMDeD/tZWs9P6+q0J9Mwkdl6xMV8TjnGP3qJVJ06bdMgkbBlLU8IdfOsIsFz2BW1rNVT3XuNEl8zPAvw==
 
-pathfinder_getproof_lib@^0.0.4:
-  version "0.0.4"
-  resolved "https://registry.yarnpkg.com/pathfinder_getproof_lib/-/pathfinder_getproof_lib-0.0.4.tgz#fd78a935e4b4bc1f74712071e7b01df08eca4ff5"
-  integrity sha512-1ajJxn+bE23eISQaM6H9e2uD/C8rTyGedIUXy5vIjw0qr0LPIHQ7FXbMjkENPwLmYHK/TEnJ9ptFeIsJUmOgtw==
+pathfinder_getproof_lib@^0.0.5:
+  version "0.0.5"
+  resolved "https://registry.yarnpkg.com/pathfinder_getproof_lib/-/pathfinder_getproof_lib-0.0.5.tgz#e983d9f3ebfc9746004f88200e051f44c5deafc5"
+  integrity sha512-qTsQwva/NJxCWxkoJuwyUis7gA6FmOEzb2owSwZ3x1w2X653jlZJr0lPDQ3Y6Omyulda/yEHSRZhmL7k8KEhlg==
   dependencies:
     ethers "^5.0.25"
     starknet "^4.17.1"
